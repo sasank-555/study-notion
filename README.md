@@ -1,6 +1,6 @@
 # ✨ About This Project
 
-Welcome to our basic frontend idea built with React and Vite! Dive into our creation and explore the magic of modern frontend development.
+Welcome to My basic frontend idea built with React and Vite! Dive into My creation and explore the magic of modern frontend development.
 
 ## 🚀 Check Out The Deployment!
 
