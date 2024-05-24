@@ -1,8 +1,10 @@
-# 🚀 My React Project
+# ✨ About This Project
 
-This project is a React application built with Vite and styled using Tailwind CSS. It is designed to be a fast and modern frontend application.
+Welcome to our basic frontend idea built with React and Vite! Dive into our creation and explore the magic of modern frontend development.
 
-## 📋 Table of Contents
+## 🚀 Check Out Our Deployment!
+
+Experience the live deployment of this project [here](https://study-notion-two-navy.vercel.app). Feel free to explore and interact with the application!
 
 - [Installation](#installation)
 - [Usage](#usage)
