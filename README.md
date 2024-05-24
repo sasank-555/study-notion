@@ -2,7 +2,7 @@
 
 Welcome to our basic frontend idea built with React and Vite! Dive into our creation and explore the magic of modern frontend development.
 
-## 🚀 Check Out Our Deployment!
+## 🚀 Check Out The Deployment!
 
 Experience the live deployment of this project [here](https://study-notion-two-navy.vercel.app). Feel free to explore and interact with the application!
 
